@@ -1,0 +1,2 @@
+model_checkpoint_path: "/usr4/dlearn/chhari/Documents/pset4/checkpoints"
+all_model_checkpoint_paths: "/usr4/dlearn/chhari/Documents/pset4/checkpoints"
